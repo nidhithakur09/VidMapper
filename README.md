@@ -2,10 +2,8 @@
 
   # VidMapper
 
-  [![Hackathon](https://img.shields.io/badge/hackathon-Mumbai-orange.svg)](http://mumbaihackathon.in/) 
+ 
   [![Status](https://img.shields.io/badge/status-inactive-red.svg)]()
-  [![GitHub Issues](https://img.shields.io/github/issues/sephiroth7712/VidMapper.svg)](https://github.com/sephiroth7712/VidMapper/issues)
-  [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sephiroth7712/VidMapper.svg)](https://github.com/sephiroth7712/VidMapper/pulls)
   [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE.md)
 
 </div>
@@ -89,8 +87,5 @@ Please refer to [Flutter](https://flutter.dev/docs/get-started/install) for furt
 
 + [Roshan James](https://github.com/sephiroth7712) <br>
 + [Calden Rodrigues](https://github.com/caldenrodrigues) <br>
-+ [Chaitanyakrishna Dukkipaty](https://github/chaitanyadukkipaty) <br>
-+ [Kyle Lobo](https://github.com/kylelobo) <br>
-+ [Pratik Nerurkar](https://github.com/PlayPratz) <br>
-+ [Sarah Solkar](https://github.com/SarahSolkar)
++ [Nidhi Thakur](https://github.com/nidhithakur09)
 
